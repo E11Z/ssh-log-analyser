@@ -8,3 +8,6 @@ venv/
 *.pcap
 *.log
 .DS_Store
+
+# The generated fake sample log is safe to commit
+!samples/*.log
