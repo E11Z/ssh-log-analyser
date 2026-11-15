@@ -1,0 +1,253 @@
+Nov 15 02:00:00 lab-vm CRON[779]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 02:05:00 lab-vm systemd-logind[400]: New session 12 of user alice_demo.
+Nov 15 02:10:00 lab-vm sshd[2304]: Invalid user test from 203.0.113.200 port 58142
+Nov 15 02:10:00 lab-vm sshd[2304]: Failed password for invalid user test from 203.0.113.200 port 58142 ssh2
+Nov 15 02:15:09 lab-vm sshd[5103]: Invalid user test_user from 203.0.113.200 port 36407
+Nov 15 02:15:09 lab-vm sshd[5103]: Failed password for invalid user test_user from 203.0.113.200 port 36407 ssh2
+Nov 15 02:17:00 lab-vm CRON[118]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 02:20:52 lab-vm sshd[2931]: Invalid user postgres from 203.0.113.200 port 51856
+Nov 15 02:20:52 lab-vm sshd[2931]: Failed password for invalid user postgres from 203.0.113.200 port 51856 ssh2
+Nov 15 02:24:54 lab-vm sshd[2428]: Invalid user ubuntu from 203.0.113.200 port 46110
+Nov 15 02:24:54 lab-vm sshd[2428]: Failed password for invalid user ubuntu from 203.0.113.200 port 46110 ssh2
+Nov 15 02:28:48 lab-vm sshd[6382]: Invalid user pi from 203.0.113.200 port 40760
+Nov 15 02:28:48 lab-vm sshd[6382]: Failed password for invalid user pi from 203.0.113.200 port 40760 ssh2
+Nov 15 02:32:58 lab-vm sshd[2843]: Invalid user test_user from 203.0.113.200 port 52305
+Nov 15 02:32:58 lab-vm sshd[2843]: Failed password for invalid user test_user from 203.0.113.200 port 52305 ssh2
+Nov 15 02:34:00 lab-vm CRON[952]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 02:38:50 lab-vm sshd[6143]: Invalid user test from 203.0.113.200 port 55242
+Nov 15 02:38:50 lab-vm sshd[6143]: Failed password for invalid user test from 203.0.113.200 port 55242 ssh2
+Nov 15 02:39:00 lab-vm sshd[1947]: Accepted publickey for alice_demo from 198.51.100.5 port 48737 ssh2
+Nov 15 02:44:21 lab-vm sshd[7251]: Failed password for root from 203.0.113.200 port 48364 ssh2
+Nov 15 02:45:00 lab-vm sshd[1374]: Accepted publickey for bob_demo from 198.51.100.6 port 49354 ssh2
+Nov 15 02:49:28 lab-vm sshd[2129]: Invalid user ubuntu from 203.0.113.200 port 34872
+Nov 15 02:49:28 lab-vm sshd[2129]: Failed password for invalid user ubuntu from 203.0.113.200 port 34872 ssh2
+Nov 15 02:51:00 lab-vm CRON[461]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 02:53:05 lab-vm sshd[2658]: Invalid user postgres from 203.0.113.200 port 59989
+Nov 15 02:53:05 lab-vm sshd[2658]: Failed password for invalid user postgres from 203.0.113.200 port 59989 ssh2
+Nov 15 02:58:51 lab-vm sshd[6005]: Invalid user test_user from 203.0.113.200 port 44993
+Nov 15 02:58:51 lab-vm sshd[6005]: Failed password for invalid user test_user from 203.0.113.200 port 44993 ssh2
+Nov 15 03:01:56 lab-vm sshd[8477]: Invalid user test from 203.0.113.200 port 36317
+Nov 15 03:01:56 lab-vm sshd[8477]: Failed password for invalid user test from 203.0.113.200 port 36317 ssh2
+Nov 15 03:05:37 lab-vm sshd[8158]: Invalid user oracle from 203.0.113.200 port 37301
+Nov 15 03:05:37 lab-vm sshd[8158]: Failed password for invalid user oracle from 203.0.113.200 port 37301 ssh2
+Nov 15 03:08:00 lab-vm CRON[708]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 03:11:22 lab-vm sshd[7823]: Failed password for root from 203.0.113.200 port 50729 ssh2
+Nov 15 03:15:00 lab-vm sshd[1500]: Failed password for alice_demo from 198.51.100.5 port 41000 ssh2
+Nov 15 03:15:06 lab-vm sshd[1501]: Failed password for alice_demo from 198.51.100.5 port 41001 ssh2
+Nov 15 03:15:14 lab-vm sshd[1502]: Accepted password for alice_demo from 198.51.100.5 port 41002 ssh2
+Nov 15 03:16:14 lab-vm sshd[7837]: Invalid user postgres from 203.0.113.200 port 56384
+Nov 15 03:16:14 lab-vm sshd[7837]: Failed password for invalid user postgres from 203.0.113.200 port 56384 ssh2
+Nov 15 03:20:57 lab-vm sshd[8163]: Invalid user ubuntu from 203.0.113.200 port 40250
+Nov 15 03:20:57 lab-vm sshd[8163]: Failed password for invalid user ubuntu from 203.0.113.200 port 40250 ssh2
+Nov 15 03:24:03 lab-vm sshd[4892]: Invalid user guest from 203.0.113.200 port 55959
+Nov 15 03:24:03 lab-vm sshd[4892]: Failed password for invalid user guest from 203.0.113.200 port 55959 ssh2
+Nov 15 03:25:00 lab-vm CRON[221]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 03:29:44 lab-vm sshd[8430]: Invalid user admin from 203.0.113.200 port 35567
+Nov 15 03:29:44 lab-vm sshd[8430]: Failed password for invalid user admin from 203.0.113.200 port 35567 ssh2
+Nov 15 03:33:04 lab-vm sshd[4451]: Failed password for root from 203.0.113.200 port 50650 ssh2
+Nov 15 03:37:00 lab-vm sshd[1749]: Accepted publickey for alice_demo from 198.51.100.5 port 42714 ssh2
+Nov 15 03:38:52 lab-vm sshd[3285]: Invalid user oracle from 203.0.113.200 port 52421
+Nov 15 03:38:52 lab-vm sshd[3285]: Failed password for invalid user oracle from 203.0.113.200 port 52421 ssh2
+Nov 15 03:42:00 lab-vm CRON[571]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 03:42:42 lab-vm sshd[2641]: Invalid user admin from 203.0.113.200 port 35225
+Nov 15 03:42:42 lab-vm sshd[2641]: Failed password for invalid user admin from 203.0.113.200 port 35225 ssh2
+Nov 15 03:48:02 lab-vm sshd[6730]: Invalid user guest from 203.0.113.200 port 49518
+Nov 15 03:48:02 lab-vm sshd[6730]: Failed password for invalid user guest from 203.0.113.200 port 49518 ssh2
+Nov 15 03:49:00 lab-vm sshd[1844]: Accepted publickey for bob_demo from 198.51.100.6 port 45452 ssh2
+Nov 15 03:52:04 lab-vm sshd[5527]: Failed password for root from 203.0.113.200 port 37452 ssh2
+Nov 15 03:57:58 lab-vm sshd[4689]: Invalid user guest from 203.0.113.200 port 57901
+Nov 15 03:57:58 lab-vm sshd[4689]: Failed password for invalid user guest from 203.0.113.200 port 57901 ssh2
+Nov 15 03:59:00 lab-vm CRON[352]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 04:00:00 lab-vm sshd[7068]: Invalid user ftpuser from 203.0.113.66 port 48916
+Nov 15 04:00:00 lab-vm sshd[7068]: Failed password for invalid user ftpuser from 203.0.113.66 port 48916 ssh2
+Nov 15 04:00:01 lab-vm sshd[5337]: Invalid user admin from 203.0.113.66 port 51394
+Nov 15 04:00:01 lab-vm sshd[5337]: Failed password for invalid user admin from 203.0.113.66 port 51394 ssh2
+Nov 15 04:00:06 lab-vm sshd[7534]: Failed password for root from 203.0.113.66 port 30561 ssh2
+Nov 15 04:00:08 lab-vm sshd[2856]: Invalid user oracle from 203.0.113.66 port 39336
+Nov 15 04:00:08 lab-vm sshd[2856]: Failed password for invalid user oracle from 203.0.113.66 port 39336 ssh2
+Nov 15 04:00:10 lab-vm sshd[8136]: Invalid user postgres from 203.0.113.66 port 56156
+Nov 15 04:00:10 lab-vm sshd[8136]: Failed password for invalid user postgres from 203.0.113.66 port 56156 ssh2
+Nov 15 04:00:15 lab-vm sshd[2102]: Invalid user pi from 203.0.113.66 port 56063
+Nov 15 04:00:15 lab-vm sshd[2102]: Failed password for invalid user pi from 203.0.113.66 port 56063 ssh2
+Nov 15 04:00:20 lab-vm sshd[5540]: Invalid user pi from 203.0.113.66 port 48746
+Nov 15 04:00:20 lab-vm sshd[5540]: Failed password for invalid user pi from 203.0.113.66 port 48746 ssh2
+Nov 15 04:00:22 lab-vm sshd[2375]: Invalid user ftpuser from 203.0.113.66 port 55427
+Nov 15 04:00:22 lab-vm sshd[2375]: Failed password for invalid user ftpuser from 203.0.113.66 port 55427 ssh2
+Nov 15 04:00:27 lab-vm sshd[8950]: Invalid user ubuntu from 203.0.113.66 port 59209
+Nov 15 04:00:27 lab-vm sshd[8950]: Failed password for invalid user ubuntu from 203.0.113.66 port 59209 ssh2
+Nov 15 04:00:29 lab-vm sshd[3481]: Invalid user test_user from 203.0.113.66 port 47336
+Nov 15 04:00:29 lab-vm sshd[3481]: Failed password for invalid user test_user from 203.0.113.66 port 47336 ssh2
+Nov 15 04:00:34 lab-vm sshd[3515]: Invalid user ftpuser from 203.0.113.66 port 55405
+Nov 15 04:00:34 lab-vm sshd[3515]: Failed password for invalid user ftpuser from 203.0.113.66 port 55405 ssh2
+Nov 15 04:00:35 lab-vm sshd[7764]: Invalid user postgres from 203.0.113.66 port 54133
+Nov 15 04:00:35 lab-vm sshd[7764]: Failed password for invalid user postgres from 203.0.113.66 port 54133 ssh2
+Nov 15 04:00:40 lab-vm sshd[2201]: Invalid user postgres from 203.0.113.66 port 56377
+Nov 15 04:00:40 lab-vm sshd[2201]: Failed password for invalid user postgres from 203.0.113.66 port 56377 ssh2
+Nov 15 04:00:45 lab-vm sshd[6442]: Invalid user postgres from 203.0.113.66 port 54647
+Nov 15 04:00:45 lab-vm sshd[6442]: Failed password for invalid user postgres from 203.0.113.66 port 54647 ssh2
+Nov 15 04:00:48 lab-vm sshd[8540]: Invalid user ftpuser from 203.0.113.66 port 48644
+Nov 15 04:00:48 lab-vm sshd[8540]: Failed password for invalid user ftpuser from 203.0.113.66 port 48644 ssh2
+Nov 15 04:00:51 lab-vm sshd[2547]: Invalid user ubuntu from 203.0.113.66 port 53224
+Nov 15 04:00:51 lab-vm sshd[2547]: Failed password for invalid user ubuntu from 203.0.113.66 port 53224 ssh2
+Nov 15 04:00:53 lab-vm sshd[3393]: Failed password for root from 203.0.113.66 port 40356 ssh2
+Nov 15 04:00:54 lab-vm sshd[5600]: Invalid user oracle from 203.0.113.66 port 47708
+Nov 15 04:00:54 lab-vm sshd[5600]: Failed password for invalid user oracle from 203.0.113.66 port 47708 ssh2
+Nov 15 04:00:57 lab-vm sshd[6542]: Failed password for root from 203.0.113.66 port 34913 ssh2
+Nov 15 04:01:01 lab-vm sshd[6967]: Invalid user pi from 203.0.113.66 port 53493
+Nov 15 04:01:01 lab-vm sshd[6967]: Failed password for invalid user pi from 203.0.113.66 port 53493 ssh2
+Nov 15 04:01:02 lab-vm sshd[4355]: Invalid user guest from 203.0.113.66 port 54283
+Nov 15 04:01:02 lab-vm sshd[4355]: Failed password for invalid user guest from 203.0.113.66 port 54283 ssh2
+Nov 15 04:01:04 lab-vm sshd[7193]: Failed password for root from 203.0.113.66 port 45116 ssh2
+Nov 15 04:01:07 lab-vm sshd[2560]: Invalid user guest from 203.0.113.66 port 36829
+Nov 15 04:01:07 lab-vm sshd[2560]: Failed password for invalid user guest from 203.0.113.66 port 36829 ssh2
+Nov 15 04:01:10 lab-vm sshd[4159]: Invalid user test_user from 203.0.113.66 port 53507
+Nov 15 04:01:10 lab-vm sshd[4159]: Failed password for invalid user test_user from 203.0.113.66 port 53507 ssh2
+Nov 15 04:01:12 lab-vm sshd[3115]: Invalid user oracle from 203.0.113.66 port 45861
+Nov 15 04:01:12 lab-vm sshd[3115]: Failed password for invalid user oracle from 203.0.113.66 port 45861 ssh2
+Nov 15 04:01:16 lab-vm sshd[5519]: Invalid user test_user from 203.0.113.66 port 48114
+Nov 15 04:01:16 lab-vm sshd[5519]: Failed password for invalid user test_user from 203.0.113.66 port 48114 ssh2
+Nov 15 04:01:19 lab-vm sshd[3814]: Invalid user test from 203.0.113.66 port 53311
+Nov 15 04:01:19 lab-vm sshd[3814]: Failed password for invalid user test from 203.0.113.66 port 53311 ssh2
+Nov 15 04:01:22 lab-vm sshd[7114]: Invalid user guest from 203.0.113.66 port 36374
+Nov 15 04:01:22 lab-vm sshd[7114]: Failed password for invalid user guest from 203.0.113.66 port 36374 ssh2
+Nov 15 04:01:27 lab-vm sshd[3303]: Invalid user guest from 203.0.113.66 port 53524
+Nov 15 04:01:27 lab-vm sshd[3303]: Failed password for invalid user guest from 203.0.113.66 port 53524 ssh2
+Nov 15 04:01:31 lab-vm sshd[7715]: Invalid user test_user from 203.0.113.66 port 50616
+Nov 15 04:01:31 lab-vm sshd[7715]: Failed password for invalid user test_user from 203.0.113.66 port 50616 ssh2
+Nov 15 04:01:34 lab-vm sshd[2247]: Failed password for root from 203.0.113.66 port 47693 ssh2
+Nov 15 04:01:39 lab-vm sshd[7253]: Invalid user oracle from 203.0.113.66 port 44335
+Nov 15 04:01:39 lab-vm sshd[7253]: Failed password for invalid user oracle from 203.0.113.66 port 44335 ssh2
+Nov 15 04:01:42 lab-vm sshd[4581]: Invalid user ftpuser from 203.0.113.66 port 55585
+Nov 15 04:01:42 lab-vm sshd[4581]: Failed password for invalid user ftpuser from 203.0.113.66 port 55585 ssh2
+Nov 15 04:01:46 lab-vm sshd[3843]: Invalid user pi from 203.0.113.66 port 40003
+Nov 15 04:01:46 lab-vm sshd[3843]: Failed password for invalid user pi from 203.0.113.66 port 40003 ssh2
+Nov 15 04:01:50 lab-vm sshd[5105]: Invalid user test_user from 203.0.113.66 port 50858
+Nov 15 04:01:50 lab-vm sshd[5105]: Failed password for invalid user test_user from 203.0.113.66 port 50858 ssh2
+Nov 15 04:01:54 lab-vm sshd[7109]: Invalid user test from 203.0.113.66 port 56881
+Nov 15 04:01:54 lab-vm sshd[7109]: Failed password for invalid user test from 203.0.113.66 port 56881 ssh2
+Nov 15 04:01:57 lab-vm sshd[5157]: Invalid user oracle from 203.0.113.66 port 56644
+Nov 15 04:01:57 lab-vm sshd[5157]: Failed password for invalid user oracle from 203.0.113.66 port 56644 ssh2
+Nov 15 04:01:58 lab-vm sshd[7685]: Invalid user postgres from 203.0.113.66 port 30094
+Nov 15 04:01:58 lab-vm sshd[7685]: Failed password for invalid user postgres from 203.0.113.66 port 30094 ssh2
+Nov 15 04:02:01 lab-vm sshd[8891]: Invalid user admin from 203.0.113.66 port 39018
+Nov 15 04:02:01 lab-vm sshd[8891]: Failed password for invalid user admin from 203.0.113.66 port 39018 ssh2
+Nov 15 04:02:05 lab-vm sshd[8713]: Invalid user ftpuser from 203.0.113.66 port 49470
+Nov 15 04:02:05 lab-vm sshd[8713]: Failed password for invalid user ftpuser from 203.0.113.66 port 49470 ssh2
+Nov 15 04:03:19 lab-vm sshd[5875]: Invalid user postgres from 203.0.113.200 port 54397
+Nov 15 04:03:19 lab-vm sshd[5875]: Failed password for invalid user postgres from 203.0.113.200 port 54397 ssh2
+Nov 15 04:07:08 lab-vm sshd[2604]: Invalid user admin from 203.0.113.200 port 32216
+Nov 15 04:07:08 lab-vm sshd[2604]: Failed password for invalid user admin from 203.0.113.200 port 32216 ssh2
+Nov 15 04:12:54 lab-vm sshd[4956]: Invalid user test from 203.0.113.200 port 38946
+Nov 15 04:12:54 lab-vm sshd[4956]: Failed password for invalid user test from 203.0.113.200 port 38946 ssh2
+Nov 15 04:16:00 lab-vm CRON[275]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 04:18:22 lab-vm sshd[2226]: Invalid user guest from 203.0.113.200 port 30005
+Nov 15 04:18:22 lab-vm sshd[2226]: Failed password for invalid user guest from 203.0.113.200 port 30005 ssh2
+Nov 15 04:24:00 lab-vm sshd[1650]: Accepted publickey for alice_demo from 198.51.100.5 port 45895 ssh2
+Nov 15 04:24:15 lab-vm sshd[2484]: Invalid user oracle from 203.0.113.200 port 47690
+Nov 15 04:24:15 lab-vm sshd[2484]: Failed password for invalid user oracle from 203.0.113.200 port 47690 ssh2
+Nov 15 04:29:35 lab-vm sshd[8923]: Invalid user admin from 203.0.113.200 port 51365
+Nov 15 04:29:35 lab-vm sshd[8923]: Failed password for invalid user admin from 203.0.113.200 port 51365 ssh2
+Nov 15 04:33:00 lab-vm CRON[914]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 04:34:16 lab-vm sshd[6276]: Invalid user ubuntu from 203.0.113.200 port 48421
+Nov 15 04:34:16 lab-vm sshd[6276]: Failed password for invalid user ubuntu from 203.0.113.200 port 48421 ssh2
+Nov 15 04:38:29 lab-vm sshd[7648]: Invalid user test from 203.0.113.200 port 30230
+Nov 15 04:38:29 lab-vm sshd[7648]: Failed password for invalid user test from 203.0.113.200 port 30230 ssh2
+Nov 15 04:43:15 lab-vm sshd[5983]: Invalid user ubuntu from 203.0.113.200 port 42175
+Nov 15 04:43:15 lab-vm sshd[5983]: Failed password for invalid user ubuntu from 203.0.113.200 port 42175 ssh2
+Nov 15 04:46:24 lab-vm sshd[2105]: Invalid user pi from 203.0.113.200 port 54775
+Nov 15 04:46:24 lab-vm sshd[2105]: Failed password for invalid user pi from 203.0.113.200 port 54775 ssh2
+Nov 15 04:50:00 lab-vm CRON[972]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 04:51:58 lab-vm sshd[2730]: Failed password for root from 203.0.113.200 port 54886 ssh2
+Nov 15 04:55:11 lab-vm sshd[8560]: Invalid user pi from 203.0.113.200 port 44288
+Nov 15 04:55:11 lab-vm sshd[8560]: Failed password for invalid user pi from 203.0.113.200 port 44288 ssh2
+Nov 15 04:58:00 lab-vm sshd[1315]: Accepted publickey for bob_demo from 198.51.100.6 port 46415 ssh2
+Nov 15 05:00:50 lab-vm sshd[5253]: Invalid user guest from 203.0.113.200 port 45504
+Nov 15 05:00:50 lab-vm sshd[5253]: Failed password for invalid user guest from 203.0.113.200 port 45504 ssh2
+Nov 15 05:04:34 lab-vm sshd[6069]: Failed password for root from 203.0.113.200 port 52107 ssh2
+Nov 15 05:06:00 lab-vm sshd[1435]: Accepted publickey for bob_demo from 198.51.100.6 port 46532 ssh2
+Nov 15 05:07:00 lab-vm CRON[421]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 05:08:21 lab-vm sshd[2601]: Invalid user oracle from 203.0.113.200 port 43928
+Nov 15 05:08:21 lab-vm sshd[2601]: Failed password for invalid user oracle from 203.0.113.200 port 43928 ssh2
+Nov 15 05:12:09 lab-vm sshd[6511]: Invalid user admin from 203.0.113.200 port 50961
+Nov 15 05:12:09 lab-vm sshd[6511]: Failed password for invalid user admin from 203.0.113.200 port 50961 ssh2
+Nov 15 05:17:22 lab-vm sshd[5423]: Invalid user test from 203.0.113.200 port 37276
+Nov 15 05:17:22 lab-vm sshd[5423]: Failed password for invalid user test from 203.0.113.200 port 37276 ssh2
+Nov 15 05:22:56 lab-vm sshd[3830]: Invalid user admin from 203.0.113.200 port 46431
+Nov 15 05:22:56 lab-vm sshd[3830]: Failed password for invalid user admin from 203.0.113.200 port 46431 ssh2
+Nov 15 05:24:00 lab-vm CRON[795]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 05:26:43 lab-vm sshd[2166]: Invalid user guest from 203.0.113.200 port 43930
+Nov 15 05:26:43 lab-vm sshd[2166]: Failed password for invalid user guest from 203.0.113.200 port 43930 ssh2
+Nov 15 05:31:56 lab-vm sshd[8196]: Invalid user ftpuser from 203.0.113.200 port 40009
+Nov 15 05:31:56 lab-vm sshd[8196]: Failed password for invalid user ftpuser from 203.0.113.200 port 40009 ssh2
+Nov 15 05:35:22 lab-vm sshd[4306]: Invalid user pi from 203.0.113.200 port 31694
+Nov 15 05:35:22 lab-vm sshd[4306]: Failed password for invalid user pi from 203.0.113.200 port 31694 ssh2
+Nov 15 05:40:27 lab-vm sshd[8777]: Invalid user pi from 203.0.113.200 port 40674
+Nov 15 05:40:27 lab-vm sshd[8777]: Failed password for invalid user pi from 203.0.113.200 port 40674 ssh2
+Nov 15 05:41:00 lab-vm CRON[807]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 05:43:33 lab-vm sshd[6788]: Invalid user pi from 203.0.113.200 port 49378
+Nov 15 05:43:33 lab-vm sshd[6788]: Failed password for invalid user pi from 203.0.113.200 port 49378 ssh2
+Nov 15 05:44:00 lab-vm sshd[1209]: Accepted publickey for alice_demo from 198.51.100.5 port 45978 ssh2
+Nov 15 05:47:57 lab-vm sshd[2847]: Invalid user oracle from 203.0.113.200 port 59352
+Nov 15 05:47:57 lab-vm sshd[2847]: Failed password for invalid user oracle from 203.0.113.200 port 59352 ssh2
+Nov 15 05:53:14 lab-vm sshd[7708]: Failed password for root from 203.0.113.200 port 32028 ssh2
+Nov 15 05:57:56 lab-vm sshd[5262]: Invalid user ftpuser from 203.0.113.200 port 31259
+Nov 15 05:57:56 lab-vm sshd[5262]: Failed password for invalid user ftpuser from 203.0.113.200 port 31259 ssh2
+Nov 15 05:58:00 lab-vm CRON[719]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 06:00:00 lab-vm sshd[7065]: Invalid user pi from 2001:db8::bad port 37073
+Nov 15 06:00:00 lab-vm sshd[7065]: Failed password for invalid user pi from 2001:db8::bad port 37073 ssh2
+Nov 15 06:00:03 lab-vm sshd[5869]: Invalid user test_user from 2001:db8::bad port 38805
+Nov 15 06:00:03 lab-vm sshd[5869]: Failed password for invalid user test_user from 2001:db8::bad port 38805 ssh2
+Nov 15 06:00:11 lab-vm sshd[8570]: Invalid user ftpuser from 2001:db8::bad port 32810
+Nov 15 06:00:11 lab-vm sshd[8570]: Failed password for invalid user ftpuser from 2001:db8::bad port 32810 ssh2
+Nov 15 06:00:18 lab-vm sshd[5967]: Invalid user ubuntu from 2001:db8::bad port 38410
+Nov 15 06:00:18 lab-vm sshd[5967]: Failed password for invalid user ubuntu from 2001:db8::bad port 38410 ssh2
+Nov 15 06:00:21 lab-vm sshd[8255]: Invalid user admin from 2001:db8::bad port 36710
+Nov 15 06:00:21 lab-vm sshd[8255]: Failed password for invalid user admin from 2001:db8::bad port 36710 ssh2
+Nov 15 06:00:24 lab-vm sshd[3244]: Invalid user test from 2001:db8::bad port 31432
+Nov 15 06:00:24 lab-vm sshd[3244]: Failed password for invalid user test from 2001:db8::bad port 31432 ssh2
+Nov 15 06:00:31 lab-vm sshd[2455]: Failed password for root from 2001:db8::bad port 37774 ssh2
+Nov 15 06:00:39 lab-vm sshd[3012]: Invalid user pi from 2001:db8::bad port 40155
+Nov 15 06:00:39 lab-vm sshd[3012]: Failed password for invalid user pi from 2001:db8::bad port 40155 ssh2
+Nov 15 06:00:42 lab-vm sshd[7986]: Invalid user admin from 2001:db8::bad port 46882
+Nov 15 06:00:42 lab-vm sshd[7986]: Failed password for invalid user admin from 2001:db8::bad port 46882 ssh2
+Nov 15 06:00:47 lab-vm sshd[6301]: Invalid user test_user from 2001:db8::bad port 48751
+Nov 15 06:00:47 lab-vm sshd[6301]: Failed password for invalid user test_user from 2001:db8::bad port 48751 ssh2
+Nov 15 06:00:52 lab-vm sshd[2742]: Invalid user guest from 2001:db8::bad port 36540
+Nov 15 06:00:52 lab-vm sshd[2742]: Failed password for invalid user guest from 2001:db8::bad port 36540 ssh2
+Nov 15 06:01:00 lab-vm sshd[7871]: Invalid user test from 2001:db8::bad port 57278
+Nov 15 06:01:00 lab-vm sshd[7871]: Failed password for invalid user test from 2001:db8::bad port 57278 ssh2
+Nov 15 06:01:04 lab-vm sshd[7746]: Invalid user oracle from 2001:db8::bad port 47377
+Nov 15 06:01:04 lab-vm sshd[7746]: Failed password for invalid user oracle from 2001:db8::bad port 47377 ssh2
+Nov 15 06:01:11 lab-vm sshd[7931]: Failed password for root from 2001:db8::bad port 37943 ssh2
+Nov 15 06:01:13 lab-vm sshd[6554]: Invalid user ubuntu from 2001:db8::bad port 40385
+Nov 15 06:01:13 lab-vm sshd[6554]: Failed password for invalid user ubuntu from 2001:db8::bad port 40385 ssh2
+Nov 15 06:02:38 lab-vm sshd[7275]: Failed password for root from 203.0.113.200 port 31339 ssh2
+Nov 15 06:08:31 lab-vm sshd[5555]: Invalid user test_user from 203.0.113.200 port 53625
+Nov 15 06:08:31 lab-vm sshd[5555]: Failed password for invalid user test_user from 203.0.113.200 port 53625 ssh2
+Nov 15 06:13:27 lab-vm sshd[4632]: Invalid user admin from 203.0.113.200 port 49566
+Nov 15 06:13:27 lab-vm sshd[4632]: Failed password for invalid user admin from 203.0.113.200 port 49566 ssh2
+Nov 15 06:15:00 lab-vm CRON[568]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 06:18:41 lab-vm sshd[5670]: Invalid user test_user from 203.0.113.200 port 48399
+Nov 15 06:18:41 lab-vm sshd[5670]: Failed password for invalid user test_user from 203.0.113.200 port 48399 ssh2
+Nov 15 06:23:51 lab-vm sshd[2733]: Invalid user oracle from 203.0.113.200 port 45053
+Nov 15 06:23:51 lab-vm sshd[2733]: Failed password for invalid user oracle from 203.0.113.200 port 45053 ssh2
+Nov 15 06:29:20 lab-vm sshd[8107]: Invalid user pi from 203.0.113.200 port 42182
+Nov 15 06:29:20 lab-vm sshd[8107]: Failed password for invalid user pi from 203.0.113.200 port 42182 ssh2
+Nov 15 06:32:00 lab-vm CRON[717]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 06:32:28 lab-vm sshd[3197]: Invalid user test from 203.0.113.200 port 33529
+Nov 15 06:32:28 lab-vm sshd[3197]: Failed password for invalid user test from 203.0.113.200 port 33529 ssh2
+Nov 15 06:36:26 lab-vm sshd[5348]: Invalid user test_user from 203.0.113.200 port 35367
+Nov 15 06:36:26 lab-vm sshd[5348]: Failed password for invalid user test_user from 203.0.113.200 port 35367 ssh2
+Nov 15 06:40:00 lab-vm sshd[7428]: Invalid user oracle from 203.0.113.200 port 56964
+Nov 15 06:40:00 lab-vm sshd[7428]: Failed password for invalid user oracle from 203.0.113.200 port 56964 ssh2
+Nov 15 06:44:00 lab-vm sshd[1684]: Accepted publickey for bob_demo from 198.51.100.6 port 45703 ssh2
+Nov 15 06:44:07 lab-vm sshd[5967]: Invalid user guest from 203.0.113.200 port 41102
+Nov 15 06:44:07 lab-vm sshd[5967]: Failed password for invalid user guest from 203.0.113.200 port 41102 ssh2
+Nov 15 06:49:00 lab-vm CRON[371]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 06:57:00 lab-vm sshd[1066]: Accepted publickey for alice_demo from 198.51.100.5 port 48280 ssh2
+Nov 15 07:06:00 lab-vm CRON[923]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 07:23:00 lab-vm CRON[305]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 07:40:00 lab-vm CRON[660]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 07:51:00 lab-vm sshd[1755]: Accepted publickey for bob_demo from 198.51.100.6 port 45092 ssh2
+Nov 15 07:56:00 lab-vm sshd[1413]: Accepted publickey for alice_demo from 198.51.100.5 port 46608 ssh2
+Nov 15 07:57:00 lab-vm CRON[168]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
